@@ -14,6 +14,8 @@ All rights reserved.
 See the full license inside LICENSE file
 ```
 
+![Image](https://github.com/fvcalderan/Skonvolve/blob/main/screenshot/screenshot.png?raw=true)
+
 ## Prerequisites
 The required libraries are the following: `PIL`, `PySimpleGUI`,
 `NumPy` and `Matplotlib`.
